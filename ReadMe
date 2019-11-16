@@ -1,0 +1,18 @@
+Carry task:
+In elementary arithmetic, a carry is a digit that is transferred 
+from one column of digits to another column
+of more significant digits.
+
+# Write a function that takes two integers (a and b) and outputs
+how many times carry was used during sum of them, i.e.
+
+ a = 99
+ b = 9
+
+ the output should be 2
+
+Another example:
+a = 190101
+B = 909909
+
+ The output should be 4
